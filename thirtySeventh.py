@@ -13,4 +13,5 @@ if __name__ == "__main__":
     for a0 in xrange(q):
         s = raw_input().strip()
         result = stringConstruction(s)
-        print result
+        print re
+        sult
