@@ -1,0 +1,1 @@
+print divmod(input(), input())
