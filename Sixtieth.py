@@ -7,3 +7,4 @@ if __name__ == '__main__':
         scores = map(float, scores)
         student_marks[name] = scores
     query_name = raw_input()
+    print sum(student_marks[query_name]) / 3
